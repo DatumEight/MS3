@@ -409,3 +409,8 @@ footer .copyright {
   font-size: 16px;
   padding: 25px 35px;
 }
+
+/* non-vendor supplied classes */
+.home{
+    background-image: url('../img/JLrsQta.jpg');
+}
